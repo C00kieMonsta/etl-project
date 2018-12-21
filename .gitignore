@@ -1,0 +1,23 @@
+# dependencies
+/node_modules
+
+# IDE
+/.idea
+/.awcache
+/.vscode
+
+# misc
+npm-debug.log
+
+# example
+/quick-start
+
+# dist
+/dist
+
+/data
+
+package-lock.json
+
+.DS_Store
+
